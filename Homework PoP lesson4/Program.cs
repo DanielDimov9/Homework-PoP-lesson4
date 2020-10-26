@@ -84,6 +84,7 @@ namespace Homework_PoP_lesson4
         }
 
         private static string Decode(string encodedString)
+
         {
             string result = "";
             foreach (char character in encodedString)
